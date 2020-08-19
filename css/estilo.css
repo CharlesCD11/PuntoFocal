@@ -25,3 +25,7 @@ footer {
 footer h6 {
     color: whitesmoke;
 }
+
+.about-video-right {
+    background:url(../img/catalogo/persianas/pre/se06.jpg) no-repeat center;
+}
